@@ -396,14 +396,13 @@ Open `run_summary.json` and record the actual values.
 The final README should report the real run, for example:
 
 ```text
-Candidates discovered: <actual value>
-Verified Indian Shopify stores: <actual value>
-Email present: <actual percentage>%
-Phone present: <actual percentage>%
-Socials present: <actual percentage>%
-Logo present: <actual percentage>%
-State present: <actual percentage>%
-Unknown category: <actual percentage>%
+  verified_records : 1252
+  email_present : 916
+  phone_present : 853
+  socials_present : 1024
+  logo_present : 1173
+  state_present : 798
+  category_unknown : 365
 ```
 
 Do not replace the placeholders with estimated numbers.
