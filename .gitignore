@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+.env
+.DS_Store
+Thumbs.db
+
+# Large/local crawl files
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated results during development
+# Keep the final result CSV committed, but ignore temporary files.
+data/outputs/tmp/

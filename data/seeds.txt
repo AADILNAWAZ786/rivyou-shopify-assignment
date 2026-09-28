@@ -1,0 +1,2 @@
+# Optional extra seed domains/URLs, one per line.
+# Add any additional publicly sourced candidate URLs here.
